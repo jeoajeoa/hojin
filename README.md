@@ -1,4 +1,3 @@
-
 <html>
   <head>
     <meta charset="utf-8">
@@ -11,6 +10,6 @@
     </style>
   </head>
   <body>
-    <input type="button" value="클릭하지 마시오" onclick="alert('이호진 멍청이')">
+    <input type="button" value="클릭하지 마시오" style="text-align:center" onclick="alert('이호진 멍청이')">
   </body>
 </html>
